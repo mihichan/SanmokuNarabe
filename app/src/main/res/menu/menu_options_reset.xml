@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/optionsReset"
+        app:showAsAction="never"
+        android:title="@string/menu_options_reset"/>
+
+    <item
+        android:id="@+id/optionsRestart"
+        app:showAsAction="never"
+        android:title="@string/menu_options_restart"/>
+
+    <item
+        android:id="@+id/optionsCpuMode"
+        app:showAsAction="never"
+        android:title="@string/menu_options_cpumode"/>
+</menu>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">三目並べ</string>
+    <string name="menu_options_reset">リセットして開始</string>
+    <string name="menu_options_restart">継続</string>
+    <string name="menu_options_cpumode">コンピューターと対戦開始</string>
+</resources>
